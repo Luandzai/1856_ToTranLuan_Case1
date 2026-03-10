@@ -3,6 +3,8 @@ def sum(a,b):
 
 def sub(a,b):
     return a-b
+def subtract(a,b):
+    return a-b
 
 if __name__ == "__main__":
     a = 10
